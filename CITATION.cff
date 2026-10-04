@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying research paper."
+title: "Comparative and Explainable Deep Learning for Thyroid Nodule Classification Using the TN5000 Ultrasound Dataset"
+type: software
+authors:
+  - family-names: "Afaaz"
+    given-names: "Mohammed"
+year: 2026
+abstract: "Public code release for a comparative evaluation of VGG16T, fine-tuned VGG16T, and ResNet50 for thyroid nodule classification on the TN5000 ultrasound dataset, including bootstrap confidence intervals, threshold sensitivity analysis, Grad-CAM visualization, and computational analysis."
+repository-code: "https://github.com/mohammedafaaz/TN5000-Thyroid-Classification"
+license: MIT
